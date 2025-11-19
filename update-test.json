@@ -1,0 +1,12 @@
+{
+  "version": "1.0.2.5",
+  "changelog": "Fixed auto-start\nMultiple app Run Fixed",
+  "autoupdate_version": "1.1",
+  "autoupdate": true,
+  "urls": [
+    "https://github.com/atanugwc/updater-test/releases/download/v1/DtxSQLBrowser.exe",
+    "https://github.com/atanugwc/updater-test/releases/download/v1/autostart.bat",
+    "https://github.com/atanugwc/updater-test/releases/download/v1/disable.bat",
+    "https://github.com/atanugwc/updater-test/releases/download/v1/watchdog.vbs"
+  ]
+}
