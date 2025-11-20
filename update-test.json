@@ -2,7 +2,7 @@
   "version": "1.0.2.9",
   "changelog": "Fixed auto-start\nMultiple app Run Fixed",
   "autoupdate_version": "1.2",
-  "autoupdate": true,
+  "autoupdate": false,
   "urls": [
     "https://github.com/atanugwc/updater-test/releases/download/v1/DtxSQLBrowser.exe",
     "https://github.com/atanugwc/updater-test/releases/download/v1/autostart.bat",
